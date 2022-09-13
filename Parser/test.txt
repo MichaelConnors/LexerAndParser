@@ -1,0 +1,4 @@
+integer f = 5.9
+integer s = "string"
+print true
+
